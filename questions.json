@@ -1,0 +1,110 @@
+{
+    "questions": [
+      {
+        "question": "What is the output of `print(2 ** 3)` in Python?",
+        "options": ["8", "6", "7", "9"],
+        "answer": "8"
+      },
+      {
+        "question": "Which of the following is the correct syntax for defining a function in Python?",
+        "options": ["def func():", "function func():", "def: func()", "func(): def"],
+        "answer": "def func():"
+      },
+      {
+        "question": "Which data type is used to store a sequence of characters in Python?",
+        "options": ["string", "list", "tuple", "int"],
+        "answer": "string"
+      },
+      {
+        "question": "What is the keyword used to create a class in Python?",
+        "options": ["create", "define", "class", "object"],
+        "answer": "class"
+      },
+      {
+        "question": "Which operator is used to check equality in Python?",
+        "options": ["==", "=", "===", "!="],
+        "answer": "=="
+      },
+      {
+        "question": "What is the correct syntax to import a module in Python?",
+        "options": ["import module", "module import", "import('module')", "from module import"],
+        "answer": "import module"
+      },
+      {
+        "question": "Which method is used to find the length of a list in Python?",
+        "options": ["length()", "len()", "size()", "count()"],
+        "answer": "len()"
+      },
+      {
+        "question": "What is the purpose of the break statement in Python?",
+        "options": ["Stop the program", "Exit the current loop", "Skip the loop iteration", "Return a value"],
+        "answer": "Exit the current loop"
+      },
+      {
+        "question": "What is the result of `5 / 2` in Python 3?",
+        "options": ["2", "2.5", "2.0", "3"],
+        "answer": "2.5"
+      },
+      {
+        "question": "What does the 'self' keyword represent in Python?",
+        "options": ["A reference to the current object", "A built-in function", "A module", "A global variable"],
+        "answer": "A reference to the current object"
+      },
+      {
+        "question": "Which Python data type is immutable?",
+        "options": ["List", "Set", "Dictionary", "Tuple"],
+        "answer": "Tuple"
+      },
+      {
+        "question": "What is the output of `print('hello'.upper())`?",
+        "options": ["hello", "HELLO", "error", "None"],
+        "answer": "HELLO"
+      },
+      {
+        "question": "Which of the following is used to define a comment in Python?",
+        "options": ["//", "#", "/* */", "%%"],
+        "answer": "#"
+      },
+      {
+        "question": "What is the correct way to declare a variable in Python?",
+        "options": ["var x = 10", "x: int = 10", "x = 10", "int x = 10"],
+        "answer": "x = 10"
+      },
+      {
+        "question": "What will be the output of the following Python code: `print('1' + 1)`?",
+        "options": ["Error", "11", "TypeError", "None"],
+        "answer": "TypeError"
+      },
+      {
+        "question": "Which function is used to get user input in Python?",
+        "options": ["input()", "get()", "scan()", "inputData()"],
+        "answer": "input()"
+      },
+      {
+        "question": "How do you create a dictionary in Python?",
+        "options": ["dict = {}", "dict = []", "dict = ()", "dict = ''"],
+        "answer": "dict = {}"
+      },
+      {
+        "question": "Which Python library is used for numerical calculations?",
+        "options": ["math", "numpy", "pandas", "numpy & pandas"],
+        "answer": "numpy"
+      },
+      {
+        "question": "What is the correct syntax to check if a variable x is greater than 5 in Python?",
+        "options": ["if x > 5:", "if x > 5 then:", "if x > 5 do:", "if 5 < x:"],
+        "answer": "if x > 5:"
+      },
+      {
+        "question": "How can you catch an exception in Python?",
+        "options": ["try-except", "catch-except", "catch-finally", "try-finally"],
+        "answer": "try-except"
+      },
+      {
+        "question": "What is the return type of the `len()` function?",
+        "options": ["int", "str", "list", "float"],
+        "answer": "int"
+      }
+    ]
+  }
+  
